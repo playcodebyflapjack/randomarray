@@ -48,6 +48,7 @@ MsgBox(0, "เก็บค่าเรียบร้อย", "ค่า X : "&$
 EndFunc
 
 
+
 Func showValue()
 
 $sizeArray = UBound ($arrayPositons,1)
